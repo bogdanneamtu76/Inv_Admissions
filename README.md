@@ -21,7 +21,7 @@ This repository contains data and scripts related to a retrospective study aimed
 ## 📖 Citation
 If using these resources, please cite:
 
-> *Băcilă, C.I., et al. (2024). Predictive Analysis of Risk Factors for Involuntary Psychiatric Admissions Before and During COVID-19: A Retrospective Study from a Tertiary Romanian Hospital.*
+> *Băcilă, C.I., et al. (2024).Impact and Predictive Modeling of Risk Factors for Involuntary Psychiatric Admissions Before and During COVID-19: Insights from a Romanian Tertiary Hospital.*
 
 ## 📜 License
 This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) for details.
