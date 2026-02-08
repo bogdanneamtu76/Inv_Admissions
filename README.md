@@ -17,7 +17,7 @@ This repository contains data and scripts related to a retrospective study aimed
 
 ## Methods
 - Chi-square, Cochran-Mantel-Haenszel tests, and logistic regression modeling (including Firth logistic regression for bias reduction) conducted in SAS Studio.
-
+-Statistical analysis and code:Dr.Bogdan Neamtu 
 ## Citation
 If using these resources, please cite:
 
